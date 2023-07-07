@@ -1,7 +1,7 @@
 # VideoPopUp
 
  ## Live Demo Link
-<a href="https://melihkocc.github.io/TimeCalculatingApp/">Demo Link</a>
+<a href="https://melihkocc.github.io/VideoPopUp/">Demo Link</a>
 
 ## Technologies
 · HTML<br>
